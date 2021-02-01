@@ -1,0 +1,9 @@
+.drawer {
+  width: 280px;
+  flex-shrink: 0;
+  position: relative;
+}
+.drawerPaper {
+  width: 280px;
+  background: #1a1d24;
+}

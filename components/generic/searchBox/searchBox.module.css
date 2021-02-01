@@ -1,0 +1,17 @@
+.root {
+  padding: 1rem 0;
+  position: absolute;
+  z-index: 1000;
+  background: #1a1d24;
+}
+
+.search input {
+  height: 46px;
+  width: 100%;
+  border-radius: 6px;
+  border: none;
+  outline: none;
+  background: #16181e;
+  color: #cfd7ea;
+  padding-left: 0.5rem;
+}

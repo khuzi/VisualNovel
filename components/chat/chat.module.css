@@ -1,0 +1,13 @@
+.basic_message {
+  margin-bottom: 0.5rem;
+  color: #cfd7ea;
+  font-size: 14px;
+  display: inline-block;
+}
+.basic_message .txt p {
+  background: #252930;
+  padding: 1rem 0.5rem;
+  margin: 0;
+  margin-left: 2.5rem;
+  border-radius: 0 6px 6px 6px;
+}
